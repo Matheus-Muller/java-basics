@@ -6,3 +6,4 @@ Estudo sobre alguns conceitos básicos da linguagem Java.
 2. Soma de Múltiplos (Scanner + while + if + contador).
 3. Chamada Recursiva (Scanner + for decrescente).
 4. FizzBuzz, checando multiplos (Scanner + if/elseif/else).
+5. Busca Sequencial, percorrendo vetor procurando um número (Scanner + array + for + if).
